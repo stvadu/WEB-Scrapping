@@ -1,0 +1,142 @@
+[
+    {
+        "link": "https://spb.hh.ru/vacancy/88593532?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python+django+flask",
+        "company": "Компания Самолет",
+        "city": "Москва",
+        "salary": "з/п не указана",
+        "name": "Senior Python Developer (Django)"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/86085894?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python+django+flask",
+        "company": "Точка",
+        "city": "Москва",
+        "salary": "до 420 000 ₽",
+        "name": "Python-разработчик"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/88046832?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python+django+flask",
+        "company": "Сбер. IT",
+        "city": "Москва",
+        "salary": "з/п не указана",
+        "name": "Python-разработчик"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/89169132?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python+django+flask",
+        "company": "ООО 7тек",
+        "city": "Москва",
+        "salary": "з/п не указана",
+        "name": "Python инженер"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/88999663?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python+django+flask",
+        "company": "ООО ЛИГРЕС",
+        "city": "Санкт-Петербург",
+        "salary": "от 200 000 ₽",
+        "name": "Senior Python developer"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/88814394?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python+django+flask",
+        "company": "Lesta Games",
+        "city": "Санкт-Петербург",
+        "salary": "з/п не указана",
+        "name": "Python Developer (Platform)"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/79041274?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python+django+flask",
+        "company": "The Skolkovo Institute of Science and Technology",
+        "city": "Москва",
+        "salary": "з/п не указана",
+        "name": "Python/C++ Software Developer (Scientific platform)"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/89100540?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python+django+flask",
+        "company": "ООО Геоинформационные Сервисы",
+        "city": "Москва",
+        "salary": "80 000 – 150 000 ₽",
+        "name": "Fullstack-разработчик (Python/Django/PHP/Symfony)"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/87933114?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python+django+flask",
+        "company": "Tevian (ООО Технологии видеоанализа)",
+        "city": "Москва",
+        "salary": "200 000 – 285 000 ₽",
+        "name": "Middle Backend разработчик (Python + Golang)"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/88528970?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python+django+flask",
+        "company": "Университет искусственного интеллекта",
+        "city": "Санкт-Петербург",
+        "salary": "100 000 – 150 000 ₽",
+        "name": "Python - разработчик"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/88528864?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python+django+flask",
+        "company": "Университет искусственного интеллекта",
+        "city": "Москва",
+        "salary": "100 000 – 150 000 ₽",
+        "name": "Python - разработчик"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/88048388?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python+django+flask",
+        "company": "ООО СмартБрик",
+        "city": "Москва",
+        "salary": "от 120 000 ₽",
+        "name": "Python разработчик"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/86839537?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python+django+flask",
+        "company": "«РОСБАНК»",
+        "city": "Москва",
+        "salary": "з/п не указана",
+        "name": "Python developer"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/89144930?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python+django+flask",
+        "company": "«РОСБАНК»",
+        "city": "Москва",
+        "salary": "з/п не указана",
+        "name": "Python-разработчик"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/88509708?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python+django+flask",
+        "company": "АО ИнфоТеКС",
+        "city": "Санкт-Петербург",
+        "salary": "з/п не указана",
+        "name": "Программист Python"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/87376625?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python+django+flask",
+        "company": "Ostrovok.ru",
+        "city": "Москва",
+        "salary": "з/п не указана",
+        "name": "Python Developer (DWH)"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/88594954?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python+django+flask",
+        "company": "билайн: ИТ, Data, Digital",
+        "city": "Москва",
+        "salary": "з/п не указана",
+        "name": "Backend-разработчик (Python, проект по автоматизации и поддержке обслуживания клиентов)"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/89102467?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python+django+flask",
+        "company": "Герцен",
+        "city": "Москва",
+        "salary": "от 150 000 ₽",
+        "name": "Программист Python"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/89170394?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python+django+flask",
+        "company": "ООО Культ",
+        "city": "Москва",
+        "salary": "до 250 000 ₽",
+        "name": "Python разработчик в команду THE CULTT"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/89147635?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python+django+flask",
+        "company": "ООО Кросстех Солюшнс Групп",
+        "city": "Москва",
+        "salary": "з/п не указана",
+        "name": "Python/SQL developer"
+    }
+]
